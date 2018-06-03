@@ -37,7 +37,7 @@ what:
           align: -center
           number: 1
           img: assets/assets/img/marketingtailor.jpg
-          title: Digital Marketing Tailors with a knack for Social Media and AI
+          title: Digital Tailors with a knack for Social Media and AI
           description: It can be a challenge to find that simple turn-key solution for any small-medium business. We offer obsessive research into the psychology and behavior of your best possible audiences. We then use the findings to act fast and plan campaigns that capitalize on the opportunities identified. 
         - slide:
           align: -right
