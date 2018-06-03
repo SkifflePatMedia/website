@@ -32,14 +32,19 @@ what:
           number: 1
           img: assets/assets/img/marketingtailor.jpg
           title: Digital Marketing Tailors with a knack for Social Media and AI
-          description: It can be a challenge to find that simple turn-key solution for any small-medium business. We offer obsessive research into the psychology and behavior of your best possible audiences. We then use the findings to act fast and plan campaigns that capitalize on the opportunities identified. AI Social Community Manager utility token.
+          description: It can be a challenge to find that simple turn-key solution for any small-medium business. We offer obsessive research into the psychology and behavior of your best possible audiences. We then use the findings to act fast and plan campaigns that capitalize on the opportunities identified. 
         - slide:
           align: -center
           number: 2
           img: assets/assets/img/marketing101.jpg
           title: 'Business 101 says: Revenue First! Just like breathing to stay alive'
           description: Then what...? Just like breathing last month’s success is important, it’s not nearly as important as the next month’s. Our solution is brand to audience connection and converting that to customer loyalty.
-        
+        - slide:
+          align: -right
+          number: 3
+          img: assets/assets/img/sonity.png
+          title: SonityWolf
+          description: AI Social Community Manager utility token.       
         
 
 how:
