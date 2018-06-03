@@ -30,36 +30,9 @@ what:
         - slide:
           align: -center
           number: 1
-          img: assets/assets/img/iphone.jpg
+          img: assets/assets/img/marketingtailor.jpg
           title: Digital Marketing Tailors with a knack for Social Media and AI
-        - slide:
-          align: -left
-          number: 2
-          img: assets/assets/img/pet.jpg
-          title: Virtual AI pet Utility Tokens
-          description: Sonity originally was an AI Social Community manager python script, but we decided to take it to the next level.
-        - slide:
-          align: -center
-          number: 3
-          img: assets/assets/img/husky vs cat.jpg
-          title: We are criptokitties <br> On steroids!
-          description: Everybody knows that dogs are better that cats, or at least they don’t think that they are better that you or want you dead.
-        - slide:
-          align: -right
-          number: 4
-          img: assets/assets/img/about/synapse.png
-          title: SynapseGL.network node
-          description: Sonity needs high end general computing power, this can be achieved with a swarm of phones GPUs that are going to render every single gradient of the Blockc[AI]n, and you will get sonity tokens for leasing your GPU for this tasks.
-        - slide:
-          number: 5
-          img: assets/assets/img/about/block ai.png
-          title: Blockc[AI]n technology
-          description: Since we need general computing power, not hashing power to power up sonity, to achieve our general Sonity AI we want this to be a decentralized network, in a nutshell, Sonity is going to be the first app to implement a proprietary concept called Proof of Gradient.
-        - slide:
-          number: 6
-          img: assets/assets/img/marketplace.png
-          title: Marketplace and SDK
-          description: You can use and create apps that runs on Sonity-Framework on top of SonityWolf.
+        
         
 
 how:
