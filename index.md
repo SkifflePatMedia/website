@@ -24,7 +24,7 @@ cta_learn: Learn More
 
 # WHat?
 what:
-    title: What is Sonity Wolf?
+    title: What is SkifflePat?
 
     slides:
         - slide:
