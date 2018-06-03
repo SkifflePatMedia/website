@@ -2,24 +2,24 @@
 # General
     # head
 layout: index
-title: SkifflePat
+title: SkifflePatMedia
 andtek: Andtek Empire
 andtekpage: http://andtek.pro/empire
 description: Tailored digital marketing solutions for small-medium businesses with the focus on increasing revenue, brand to audience connection and customer loyalty. Implementation of our favourite AI pet, Sonity Wolf.
 keywords: skiffle, template, html, sass, jquery
 author: Bucky Maler
-shorttitle: Skiffle
+shorttitle: SkifflePatMedia
 favicon: assets/assets/img/favicon.ico
 header_maincss: assets/assets/css/main.css
 
 # SonityWolf Logo
-imglogo: assets/assets/img/Andtek Empire.png
+imglogo: assets/assets/img/SkifflePat_clean_logo.png
 
 # Message of Devices
 device_message: Skiffle has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.
 
 # Banner
-banner_title: Explore<br>SkifflePat
+banner_title: Explore<br>SkifflePatMedia
 cta_learn: Learn More
 
 # WHat?
@@ -63,9 +63,9 @@ what:
         
 
 how:
-    title: Check out our <br>repos!
-    github_repos: https://github.com/SonityWolf
-    title_repos: GitHub repos
+    title: We manage <br>social media platforms <br>through talent, grit and AI
+    github_repos: '#'
+    title_repos: GitHub Repo - PAST PROJECTS COMING SOON!
     aboutusimg: assets/assets/img/introduction-visual.png
     aboutusalt: About Us
 
