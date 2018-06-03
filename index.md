@@ -93,8 +93,8 @@ who:
           description: My passion is to anticipate and facilitate fundamental trends in IT that will shape how we do business. I am fascinated with the change that blockchain and quantum information technology will bring.
         - slide:
           align: -center
-          linkedin: '#'
-          img: 
+          linkedin: https://www.linkedin.com/in/patrick-maciazek-862800121/
+          img: assets/assets/img/Patrick.jpg
           title: "Patrick Maciazek: <strong>CO-Founder and CEO</strong>"
           description: Men's fashion and Technology lover, into sales, digital marketing and connecting with people’s values. I am fascinated with the change and future that digital marketing will bring. 
         - slide:
