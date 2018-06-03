@@ -8,7 +8,7 @@ andtekpage: http://andtek.pro/empire
 description: Tailored digital marketing solutions for small-medium businesses with the focus on increasing revenue, brand to audience connection and customer loyalty. Implementation of our favourite AI pet, Sonity Wolf.
 keywords: skiffle, template, html, sass, jquery
 author: Bucky Maler
-shorttitle: SkifflePatMedia
+shorttitle: SkifflePat
 favicon: assets/assets/img/favicon.ico
 header_maincss: assets/assets/css/main.css
 
@@ -24,14 +24,14 @@ cta_learn: Learn More
 
 # WHat?
 what:
-    title: What is SkifflePat?
+    title: What is SkifflePatMedia?
 
     slides:
         - slide:
+          align: -center
           number: 1
           img: assets/assets/img/iphone.jpg
-          title: Native app for phone
-          description: SonityWolf will be natively compatible with Android and iOS, each app is going to be also a GPU native node added to the network.
+          title: Digital Marketing Tailors with a knack for Social Media and AI
         - slide:
           align: -left
           number: 2
