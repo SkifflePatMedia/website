@@ -19,7 +19,7 @@ imglogo: assets/assets/img/SkifflePat_clean_logo.png
 device_message: Skiffle has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.
 
 # Banner
-banner_title: Explore<br>SkifflePatMedia
+banner_title: Explore
 cta_learn: Learn More
 
 # WHat?
@@ -39,7 +39,6 @@ how:
     title: We manage <br>social media platforms <br>through talent, grit and AI
     github_repos: '#'
     title_repos: GitHub Repo - PAST PROJECTS COMING SOON!
-    aboutusimg: assets/assets/img/introduction-visual.png
     aboutusalt: About Us
 
     projectstitle: Related projects

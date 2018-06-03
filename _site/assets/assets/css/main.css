@@ -36,7 +36,10 @@ body{
     margin:0
 }
 #viewport {
-    background: #000
+    background: url('../img/skifflepat_background.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{
     display:block
