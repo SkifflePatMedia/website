@@ -2,13 +2,13 @@
 # General
     # head
 layout: index
-title: SonityWolf
+title: SkifflePat
 andtek: Andtek Empire
 andtekpage: http://andtek.pro/empire
-description: The Blockc[AI]n Wolf
-keywords: global, template, html, sass, jquery
+description: Tailored digital marketing solutions for small-medium businesses with the focus on increasing revenue, brand to audience connection and customer loyalty. Implementation of our favourite AI pet, Sonity Wolf.
+keywords: skiffle, template, html, sass, jquery
 author: Bucky Maler
-shorttitle: Sonity
+shorttitle: Skiffle
 favicon: assets/assets/img/favicon.ico
 header_maincss: assets/assets/css/main.css
 
@@ -16,10 +16,10 @@ header_maincss: assets/assets/css/main.css
 imglogo: assets/assets/img/Andtek Empire.png
 
 # Message of Devices
-device_message: Sonity has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.
+device_message: Skiffle has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.
 
 # Banner
-banner_title: Explore<br>Sonity<br>Wolf
+banner_title: Explore<br>SkifflePat
 cta_learn: Learn More
 
 # WHat?
@@ -93,16 +93,16 @@ who:
           description: My passion is to anticipate and facilitate fundamental trends in IT that will shape how we do business. I am fascinated with the change that blockchain and quantum information technology will bring.
         - slide:
           align: -center
-          linkedin: https://www.linkedin.com/in/andtek/
-          img: assets/assets/img/ianandtek.jpg
-          title: "Ian Andtek: <strong>Founder</strong>"
-          description: Art and technology lover, Into Machine Learning, Quantum Machine Learning, Quantum computing, Blockchain Development and Music and all those unusual combinations.
+          linkedin: '#'
+          img: 
+          title: "Patrick Maciazek: <strong>CO-Founder and CEO</strong>"
+          description: Men's fashion and Technology lover, into sales, digital marketing and connecting with people’s values. I am fascinated with the change and future that digital marketing will bring. 
         - slide:
           align: -right
-          linkedin: https://www.linkedin.com/in/scott-horlacher-0b5607164/
-          img: assets/assets/img/scotthorlacher.jpg
-          title: "Scott Horlacher: <strong>Developer</strong>"
-          description: Full-stack developer, ghost-writer and all-around creative person Electrical &amp; Biomedical Engineering graduate with a passion for all things Javascript Hands-on experience with IoT &amp; Ethereum, fluent in python.
+          linkedin: https://www.linkedin.com/in/andtek/
+          img: assets/assets/img/ianandtek.jpg
+          title: "Ian Andtek: <strong>CO-Founder and CTO</strong>"
+          description: Art and technology lover, Into Machine Learning, Quantum Machine Learning, Quantum computing, Blockchain Development and Music and all those unusual combinations.
 
 join_us:
     join_us_title: Want to join us?
