@@ -35,7 +35,7 @@ html{
 body{
     margin:0
 }
-#viewport {
+.background {
     background: url('../img/skifflepat_background.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
