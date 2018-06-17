@@ -184,13 +184,13 @@
             <div class="hire">
               <h2>{{ page.join_us.join_us_title }}</h2>
               <!-- checkout formspree.io for easy form setup -->
-              <form class="work-request">
+              <form id="formjoin" class="work-request" action="https://docs.google.com/forms/d/e/1FAIpQLSdlmiAc1l9WdMzRFnXn5KOil_r7YqiqvC-nYoFgieDU9wumEQ/formResponse?" target="hidden_iframe" onsubmit="this.submit(); this.reset(); return false;">
                 <div class="work-request--options">
                   {% for option in page.join_us.options %}
                     <span class="options-{{ option.title }}">
                       {% for button in option.buttons %}
-                        <input id="opt-{{ button.number }}" type="checkbox" value="{{ button.title }}">
-                        <label for="opt-{{ button.number }}">
+                        <input id="{{ button.entry }}" name="{{ button.entry }}" type="checkbox" value="{{ button.value }}">
+                        <label for="{{ button.entry }}">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                             viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
                             <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
@@ -205,16 +205,17 @@
                 </div>
                 <div class="work-request--information">
                   <div class="information-name">
-                    <input id="name" type="text" spellcheck="false">
-                    <label for="name">Name</label>
+                    <input id="entry.137027861" name="entry.137027861" type="text" spellcheck="false">
+                    <label for="entry.137027861">Name</label>
                   </div>
                   <div class="information-email">
-                    <input id="email" type="email" spellcheck="false">
-                    <label for="email">Email</label>
+                    <input id="entry.687309916" name="entry.687309916" type="email" spellcheck="false">
+                    <label for="entry.687309916">Email</label>
                   </div>
                 </div>
                 <input type="submit" value="Send Request">
               </form>
+              <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
             </div>
           </li>
         </ul>
@@ -235,6 +236,10 @@
 <script src="{{ page.scripts_functions }}"></script>
 <script>
   console.log("This company is part of Andtek Empire www.andtek.pro/empire");
+  $('#formjoin').on('submit', function(e) {
+    $('#formjoin *').fadeOut(2000);
+    $('#formjoin').prepend('Your submission has been processed...');
+  });
 </script>
 </body>
 </html>

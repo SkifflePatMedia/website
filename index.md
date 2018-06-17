@@ -97,34 +97,43 @@ join_us:
           buttons:
             - button:
               title: App Programming
-              number: 1
+              entry: entry.266978882
+              value: true
             - button:
               title: Graphic Design
-              number: 2
+              entry: entry.1123747160
+              value: true
             - button:
               title: Motion Design
-              number: 3
+              entry: entry.198871482
+              value: true
             - button:
               title: UX Design
-              number: 4
+              entry: entry.748874023
+              value: true
         - option:
           title: b
           buttons:
             - button:
               title: Blockchain
-              number: 5
+              entry: entry.1316572684
+              value: true
             - button:
               title: Webdesign
-              number: 6
+              entry: entry.615577294
+              value: true
             - button:
               title: Investment
-              number: 7
+              entry: entry.1898405607
+              value: true
             - button:
               title: Marketing
-              number: 8
+              entry: entry.274584953
+              value: true
             - button:
               title: EOS
-              number: 9
+              entry: entry.1531864754
+              value: true
 
 
 # Scripts
