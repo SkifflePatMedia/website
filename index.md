@@ -44,7 +44,7 @@ what:
           number: 3
           img: assets/assets/img/sonity.png
           title: SonityWolf
-          description: AI Social Community Manager utility token.       
+          description: AI Social Community Manager utility token. Partnering with Plexus.market
         
 
 how:
